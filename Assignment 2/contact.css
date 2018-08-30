@@ -1,0 +1,135 @@
+html
+{
+    margin: 0;
+    background-image: linear-gradient(to right, #0072ff, #00c6ff);
+}
+.container
+{
+	display: flex;
+    padding: 90px 130px 88px 148px;
+    width: 1163px;
+    background: #fff;
+    border-radius: 10px;
+    justify-content: space-between;
+    overflow: hidden;
+    flex-wrap: wrap;
+    align-items: center;
+    box-sizing: border-box;
+}
+.frm
+{
+	width: 100%;
+	margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    box-sizing: inherit;
+}
+.second
+{
+	width: 35%;
+	height: 276.78px;
+	margin: 0px;
+    padding: 0px;
+    box-sizing: inherit;
+}
+body
+{
+    margin: 0;
+	font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    font-family: Montserrat-Regular, sans-serif;
+}
+form
+{
+	display: block;
+}
+.frm1
+{
+	display: block;
+    font-family: Montserrat-ExtraBold;
+    font-size: 24px;
+    color: #333333;
+    line-height: 1.2;
+    text-align: center;
+    padding-bottom: 44px;
+    font-weight: 400;
+}
+.input1
+{
+	width: 100%;
+    z-index: 1;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+.first
+{
+	display: block;
+    width: 330.06px;
+    height: 50px;
+    background: #e6e6e6;
+    font-family: Montserrat-Bold;
+    font-size: 15px;
+    color: #666666;
+    border-radius: 25px;
+    font-weight: bold;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+input
+{
+	outline: none;
+	border: none;
+}
+.global
+{
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right, #0072ff, #00c6ff);
+    padding: 32px 15px 15px 15px;
+}
+textarea.input1
+{
+	min-height: 150px;
+	border-radius: 25px;
+	padding: 12px 30px;
+}
+textarea
+{
+	border:none;
+	outline: none;
+}
+.input2
+{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.input3
+{
+	min-width: 193px;
+    height: 50px;
+    border-radius: 25px;
+    background: #57b846;
+    font-family: Montserrat-Bold;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 25px;
+}
+button
+{
+	outline: none;
+	border: none;
+}
+button:hover
+{
+	background-color: #333333;
+}
