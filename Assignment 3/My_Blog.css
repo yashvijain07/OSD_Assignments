@@ -138,8 +138,8 @@ div
 .pic3
 {
 	padding-left:15px;
-	padding-bottom: 10px;
-	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-top: 20px;
 }
 img
 {
@@ -206,4 +206,8 @@ hr
 	color: black;
 	background-color: #ccc;
 }
-
+.hove
+{
+	
+	border-bottom: 1px solid #f1f1f1;
+}
